@@ -10,7 +10,7 @@ class _LoginViewState extends State<LoginView> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      body: Text('Login Route'),
+      body: Text('Login Route '),
     );
   }
 }
